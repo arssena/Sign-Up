@@ -1,0 +1,68 @@
+.flex_box {
+    background-color: #EDE8E8;
+    width: 1111px;
+    height: 1005px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 400;
+    line-height: 24px;
+}
+.title {
+    width: 215px;
+    height: 38px;
+    font-family: 'FiraGO';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    margin-top: 180px;
+    margin: 30px;
+
+}
+.agree {
+    display: flex;
+    flex-direction: row;
+}
+
+input {
+    width: 660px;
+    height: 80px;
+    margin: 30px;
+    border: none;
+    font-size: 24px;
+}
+.agree {
+    font-size: 20px;
+    font-family: 'Duru Sans';
+}
+a {
+    text-decoration: none;
+    color: #000000;
+    margin-left: 10px;
+
+}
+img {
+    width: 26px;
+    height: auto;
+    margin-right: 10px;
+}
+button {
+    border: none;
+    background: #FFFCFC;
+    margin: 30px;
+    
+}
+.regbutton {
+    width: 240px;
+    height: 44px;
+    font-size: 20px;
+
+}
+.link {
+    color: #584AF5;
+}
+.signupwith {
+    display: flex;
+    align-items: center;
+}   
